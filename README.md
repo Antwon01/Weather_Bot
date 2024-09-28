@@ -26,7 +26,7 @@ tkinter.font (part of the Tkinter library)
 Installation
 Clone or Download the Repository
 
-Since this is a code snippet, you can copy the code into a file named weather_chatbot.py.
+Since this is a code snippet, you can copy the code into a file named Weather_Bot.py.py.
 
 Install Required Packages
 
@@ -37,7 +37,7 @@ Copy code
 pip install requests
 Set Up Your API Key
 
-Open the weather_chatbot.py file in a text editor.
+Open the Weather_Bot.py.py file in a text editor.
 
 Replace the placeholder API key with your actual OpenWeatherMap API key:
 
@@ -47,11 +47,11 @@ API_KEY = 'your_actual_api_key_here'
 Usage
 Run the Application
 
-In the terminal or command prompt, navigate to the directory containing weather_chatbot.py and run:
+In the terminal or command prompt, navigate to the directory containing Weather_Bot.py.py and run:
 
 bash
 Copy code
-python weather_chatbot.py
+python Weather_Bot.py.py
 Interact with the Chatbot
 
 Enter City Name: Type the name of the city (e.g., "London", "New York") into the entry field.
